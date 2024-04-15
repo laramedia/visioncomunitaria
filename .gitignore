@@ -1,4 +1,5 @@
 *.log
+*.ai
 wp-config\.php
 _wpeprivate
 wp-content\/uploads
